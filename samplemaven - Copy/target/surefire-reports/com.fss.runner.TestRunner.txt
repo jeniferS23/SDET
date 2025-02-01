@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.fss.runner.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.107 s <<< FAILURE! - in com.fss.runner.TestRunner
+initializationError(com.fss.runner.TestRunner)  Time elapsed: 0.003 s  <<< ERROR!
+java.lang.IllegalArgumentException: path must exist: D:\SDET\samplemaven\src\test\resources\features
+
